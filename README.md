@@ -2,7 +2,7 @@
 
 
 #### Included
-- A code for master thesis
+- Python code for master thesis
 
 #### Overview
 - Topic modeling analysis on Reddit fan posts related to K-pop groups
